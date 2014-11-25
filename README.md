@@ -1,4 +1,4 @@
 Code-Abbey-Solutions
 ====================
 
-My solutions to exercises on [Code Abbey](www.codeabbey.com). 
+My solutions to exercises on [Code Abbey](www.codeabbey.com), using JavaScript. 
